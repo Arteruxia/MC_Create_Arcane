@@ -1,0 +1,165 @@
+[02:44:20] [INFO ] Loaded script server_scripts:Constants/trees.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:Constants/woodVariants.js in 0.004 s
+[02:44:20] [INFO ] Loaded script server_scripts:assembly.js in 0.004 s
+[02:44:20] [INFO ] Loaded script server_scripts:tags.js in 0.006 s
+[02:44:20] [INFO ] Loaded script server_scripts:andesiteRadar.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:backpackUpgrading.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:blockLoottables.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:chapter4.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:chapter5.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:chapter5Calculation.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:chapter6.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:chapterM3.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:chapterM4.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:compatRecipes.js in 0.006 s
+[02:44:20] [INFO ] Loaded script server_scripts:deploying.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:draining.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:filling.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:fluidTransformation.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:Functions/functions.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:itemRightclicked.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:loginMessage.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:lootbags.js in 0.003 s
+[02:44:20] [INFO ] Loaded script server_scripts:mechanicalCrafter.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:milling.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:mixing.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:mysteriousConversion.js in 0.003 s
+[02:44:20] [INFO ] Loaded script server_scripts:orbitMagic.js in 0.003 s
+[02:44:20] [INFO ] Loaded script server_scripts:patienceFragment.js in 0.004 s
+[02:44:20] [INFO ] Loaded script server_scripts:pneumaticraft.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:pressing.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:recipeRemoval.js in 0.003 s
+[02:44:20] [INFO ] Loaded script server_scripts:sawCutting.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:shaped.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:shapeless.js in 0.002 s
+[02:44:20] [INFO ] Loaded script server_scripts:smelting.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:stellaFix.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:structure.js in 0.006 s
+[02:44:20] [INFO ] [[[[[minecraft:deepslate,1.0,24.0],[1.0,1.0]],[[minecraft:deepslate,2.0,32.0],[1.5,0.0]],[[minecraft:raw_iron,4.0,2.0],[2.0,-1.0]],[[minecraft:ancient_Debris,32.0,1.0],[2.0,1.0]],[[minecraft:iron_ingot,1.0,3.0],[2.5,0.0]],[[minecraft:quartz,1.0,6.0],[3.0,0.0]],[[minecraft:diamond,12.0,1.0],[3.0,1.0]],[[minecraft:copper_ingot,2.0,6.0],[3.5,1.0]],[[minecraft:diamond,14.0,1.0],[3.7,0.0]],[[minecraft:raw_copper,3.0,5.0],[4.0,-1.0]]],quests:mining_task],[[[[minecraft:poisonous_potato,3.0,1.0],[1.0,1.0]],[[minecraft:pumpkin,3.0,4.0],[1.5,0.0]],[[minecraft:bamboo,1.0,32.0],[2.0,-1.0]],[[minecraft:cocoa_beans,1.0,5.0],[2.0,1.0]],[[minecraft:warped_fungus,1.0,3.0],[2.5,0.0]],[[minecraft:chorus_fruit,1.0,2.0],[3.0,0.0]],[[minecraft:melon_slice,1.0,16.0],[3.0,1.0]],[[minecraft:crimson_fungus,1.0,3.0],[3.5,1.0]],[[minecraft:melon,3.0,4.0],[3.7,0.0]],[[farmersdelight:cabbage,1.0,5.0],[4.0,-1.0]]],quests:farming_task],[[[[quark:golden_apple_crate,40.0,1.0],[1.0,1.0]],[[minecraft:glowstone,2.0,5.0],[1.5,0.0]],[[minecraft:saddle,16.0,1.0],[2.0,-1.0]],[[minecraft:beacon,56.0,1.0],[2.0,1.0]],[[minecraft:end_crystal,24.0,1.0],[2.5,0.0]],[[forbidden_arcanus:dragon_scale,32.0,1.0],[3.0,0.0]],[[quark:bottled_cloud,5.0,6.0],[3.0,1.0]],[[minecraft:writable_book,2.0,1.0],[3.5,1.0]],[[minecraft:experience_bottle,5.0,5.0],[3.7,0.0]],[[minecraft:wither_rose,15.0,3.0],[4.0,-1.0]]],quests:collecting_task],[[[[minecraft:oak_log,1.0,32.0],[1.0,1.0]],[[tconstruct:bloodshroom_log,1.0,20.0],[1.5,0.0]],[[tconstruct:greenheart_log,1.0,26.0],[2.0,-1.0]],[[minecraft:birch_log,1.0,32.0],[2.0,1.0]],[[tconstruct:skyroot_log,1.0,26.0],[2.5,0.0]],[[integrateddynamics:menril_log,1.0,26.0],[3.0,0.0]],[[minecraft:crimson_stem,1.0,26.0],[3.0,1.0]],[[minecraft:jungle_log,1.0,32.0],[3.5,1.0]],[[minecraft:dark_oak_log,1.0,32.0],[3.7,0.0]],[[minecraft:acacia_log,1.0,32.0],[4.0,-1.0]]],quests:deforesting_task],[[[[minecraft:cod,1.0,3.0],[1.0,1.0]],[[minecraft:nautilus_shell,20.0,1.0],[1.5,0.0]],[[minecraft:glow_ink_sac,3.0,5.0],[2.0,-1.0]],[[minecraft:tropical_fish,6.0,1.0],[2.0,1.0]],[[minecraft:salmon_bucket,2.0,1.0],[2.5,0.0]],[[minecraft:tropical_fish_bucket,8.0,1.0],[3.0,0.0]],[[minecraft:salmon,1.0,3.0],[3.0,1.0]],[[minecraft:fishing_rod,1.0,1.0],[3.5,1.0]],[[minecraft:ink_sac,1.0,3.0],[3.7,0.0]],[[minecraft:pufferfish,4.0,1.0],[4.0,-1.0]]],quests:fishing_task],[[[[minecraft:leather,1.0,4.0],[1.0,1.0]],[[minecraft:white_wool,1.0,32.0],[1.5,0.0]],[[minecraft:feather,1.0,4.0],[2.0,-1.0]],[[minecraft:porkchop,1.0,8.0],[2.0,1.0]],[[minecraft:mutton,1.0,8.0],[2.5,0.0]],[[minecraft:rabbit_foot,8.0,1.0],[3.0,0.0]],[[quark:diamond_heart,24.0,1.0],[3.0,1.0]],[[minecraft:beef,1.0,8.0],[3.5,1.0]],[[minecraft:rabbit_hide,3.0,1.0],[3.7,0.0]],[[minecraft:turtle_egg,10.0,1.0],[4.0,-1.0]]],quests:hunting_task],[[[[minecraft:nautilus_shell,20.0,1.0],[1.0,1.0]],[[minecraft:slime_ball,1.0,3.0],[1.5,0.0]],[[minecraft:bone,1.0,10.0],[2.0,-1.0]],[[minecraft:phantom_membrane,3.0,1.0],[2.0,1.0]],[[minecraft:string,1.0,8.0],[2.5,0.0]],[[minecraft:prismarine_shard,1.0,4.0],[3.0,0.0]],[[minecraft:ender_pearl,1.0,6.0],[3.0,1.0]],[[minecraft:ghast_tear,3.0,1.0],[3.5,1.0]],[[minecraft:prismarine_crystals,1.0,2.0],[3.7,0.0]],[[minecraft:blaze_rod,1.0,4.0],[4.0,-1.0]]],quests:slaying_task]] [dev.latvian.mods.kubejs.util.ListJS]
+[02:44:20] [INFO ] Loaded script server_scripts:tasks.js in 0.006 s
+[02:44:20] [INFO ] Loaded script server_scripts:thermal.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:tinkers.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:treeExtractor.js in 0.001 s
+[02:44:20] [INFO ] Loaded script server_scripts:voidMine.js in 0.003 s
+[02:44:20] [INFO ] Loaded script server_scripts:washing.js in 0.002 s
+[02:44:20] [INFO ] Loaded 43/43 KubeJS server scripts in 0.119 s
+[02:44:20] [INFO ] Scripts loaded
+[02:44:20] [WARN ] Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
+[02:44:20] [INFO ] Scanning recipes...
+[02:44:20] [INFO ] [worldgen/biome] Found 233 tags, added 121 objects, removed 0 objects
+[02:44:20] [INFO ] [fluids] Found 144 tags, added 1 objects, removed 0 objects
+[02:44:20] [INFO ] [fluids] Found 144 tags, added 1 objects, removed 0 objects
+[02:44:20] [INFO ] [items] Found 1688 tags, added 41 objects, removed 0 objects
+[02:44:20] [INFO ] [items] Found 1690 tags, added 158 objects, removed 0 objects
+[02:44:20] [INFO ] [blocks] Found 1244 tags, added 1486 objects, removed 0 objects
+[02:44:20] [INFO ] [blocks] Found 1244 tags, added 1486 objects, removed 0 objects
+[02:44:23] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_starlit[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:starlit_slab'
+[02:44:23] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_starlit[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:starlit_slab'
+[02:44:23] [WARN ] Failed to parse recipe 'thermal:compat/create/smelter_create_crushed_tin_ore[thermal:smelter]': {"item":"create:crushed_tin_ore"} is not a valid ingredient!
+[02:44:23] [WARN ] Failed to parse recipe 'epicsamurai:source_gem_samruai_helmet_ritual[ars_nouveau:enchanting_apparatus]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[02:44:23] [WARN ] Failed to parse recipe epicsamurai:source_gem_samruai_helmet_ritual[ars_nouveau:enchanting_apparatus]: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[02:44:23] [WARN ] Failed to parse recipe 'immersive_weathering:waxed_cut_iron_stairs_from_waxed_plate_iron_stonecutting[minecraft:stonecutting]': "immersive_weathering:waxed_cut_copper_stairs" is not a valid result!
+[02:44:23] [WARN ] Failed to parse recipe 'thermal:compat/create/smelter_create_crushed_gold_ore[thermal:smelter]': {"item":"create:crushed_gold_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/smelter_create_crushed_copper_ore[thermal:smelter]': {"item":"create:crushed_copper_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/smelter_create_crushed_zinc_ore[thermal:smelter]': {"item":"create:crushed_zinc_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/pulverizer_create_veridium[thermal:pulverizer]': {"item":"create:crushed_copper_ore","chance":0.8} is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'dramaticdoors:short_cherrywood_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:cherry_door'
+[02:44:24] [WARN ] Failed to parse recipe dramaticdoors:short_cherrywood_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:cherry_door'
+[02:44:24] [WARN ] Failed to parse recipe 'dramaticdoors:tall_byg_florus_door[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:florus_door'
+[02:44:24] [WARN ] Failed to parse recipe dramaticdoors:tall_byg_florus_door[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'byg:florus_door'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/centrifuge_create_crushed_copper_ore[thermal:centrifuge]': {"item":"create:crushed_copper_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'dramaticdoors:tall_byg_ironwood_door[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:ironwood_door'
+[02:44:24] [WARN ] Failed to parse recipe dramaticdoors:tall_byg_ironwood_door[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'byg:ironwood_door'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/smelter_create_crushed_iron_ore[thermal:smelter]': {"item":"create:crushed_iron_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'architects_palette:vertslabs/myonite_vertical_slab[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:myonite_bricks_slab'
+[02:44:24] [WARN ] Failed to parse recipe architects_palette:vertslabs/myonite_vertical_slab[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:myonite_bricks_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/centrifuge_create_crushed_nickel_ore[thermal:centrifuge]': {"item":"create:crushed_nickel_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/centrifuge_create_crushed_lead_ore[thermal:centrifuge]': {"item":"create:crushed_lead_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_darkwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:dark_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_darkwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:dark_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'architects_palette:vertslabs/mushy_myonite_brick_vertical_slab[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:mushy_myonite_bricks_brick_slab'
+[02:44:24] [WARN ] Failed to parse recipe architects_palette:vertslabs/mushy_myonite_brick_vertical_slab[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:mushy_myonite_bricks_brick_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_sortingwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:sorting_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_sortingwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:sorting_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_maple[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:maple_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_maple[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:maple_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/smelter_create_crushed_nickel_ore[thermal:smelter]': {"item":"create:crushed_nickel_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'immersive_weathering:waxed_plate_iron_stairs_from_stonecutting[minecraft:stonecutting]': "immersive_weathering:waxed_plate_copper_stairs" is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/centrifuge_create_crushed_silver_ore[thermal:centrifuge]': {"item":"create:crushed_silver_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'dramaticdoors:short_deorum_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:deorum_door'
+[02:44:24] [WARN ] Failed to parse recipe dramaticdoors:short_deorum_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:deorum_door'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/centrifuge_create_crushed_gold_ore[thermal:centrifuge]': {"item":"create:crushed_gold_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'davebuildingmod:rec_smoke_stack_opening[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'davebuildingmod:deleted_mod_element'
+[02:44:24] [WARN ] Failed to parse recipe davebuildingmod:rec_smoke_stack_opening[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'davebuildingmod:deleted_mod_element'
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_cherry[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_cherry[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_hexcasting_edified[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'hexcasting:akashic_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_hexcasting_edified[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'hexcasting:akashic_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_frostbright[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:frostbright_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_frostbright[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:frostbright_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'architects_palette:vertslabs/stonecutting/mushy_myonite_brick_vslab_from_mushy_myonite_bricks_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:mushy_myonite_bricks_bricks'
+[02:44:24] [WARN ] Failed to parse recipe architects_palette:vertslabs/stonecutting/mushy_myonite_brick_vslab_from_mushy_myonite_bricks_stonecutting[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:mushy_myonite_bricks_bricks'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/pulverizer_create_zinc_ore[thermal:pulverizer]': {"item":"create:crushed_zinc_ore","chance":2.0} is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_timewood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:time_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_timewood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:time_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/smelter_create_crushed_silver_ore[thermal:smelter]': {"item":"create:crushed_silver_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/centrifuge_create_crushed_zinc_ore[thermal:centrifuge]': {"item":"create:crushed_zinc_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'pneumaticcraft:pneumaticcraft_fuels/cofh_biofuel[pneumaticcraft:fuel_quality]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid 'thermal:refined_biofuel'
+[02:44:24] [WARN ] Failed to parse recipe pneumaticcraft:pneumaticcraft_fuels/cofh_biofuel[pneumaticcraft:fuel_quality]: com.google.gson.JsonSyntaxException: Unknown fluid 'thermal:refined_biofuel'
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_transwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_transwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'architects_palette:vertslabs/stonecutting/myonite_vslab_from_myonite_stonecutting[minecraft:stonecutting]': "architects_palette:myonite_bricks_vertical_slab" is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/centrifuge_create_crushed_iron_ore[thermal:centrifuge]': {"item":"create:crushed_iron_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'createaddition:compat/tconstruct/tinkers_bronze[create:mixing]': {"item":"tconstruct:tinkers_bronze_ingot","count":3} is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'architects_palette:vertslabs/stonecutting/myonite_brick_vslab_from_myonite_and_myonite_bricks_stonecutting[minecraft:stonecutting]': "architects_palette:myonite_bricks_brick_vertical_slab" is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_twilight_oak[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:twilight_oak_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_twilight_oak[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:twilight_oak_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'epicsamurai:source_gem_samruai_leggings_ritual[ars_nouveau:enchanting_apparatus]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[02:44:24] [WARN ] Failed to parse recipe epicsamurai:source_gem_samruai_leggings_ritual[ars_nouveau:enchanting_apparatus]: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[02:44:24] [WARN ] Failed to parse recipe 'architects_palette:vertslabs/myonite_brick_vertical_slab[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:myonite_bricks_brick_slab'
+[02:44:24] [WARN ] Failed to parse recipe architects_palette:vertslabs/myonite_brick_vertical_slab[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:myonite_bricks_brick_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'dramaticdoors:tall_byg_soul_shroom_door[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:soul_shroom_door'
+[02:44:24] [WARN ] Failed to parse recipe dramaticdoors:tall_byg_soul_shroom_door[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'byg:soul_shroom_door'
+[02:44:24] [WARN ] Failed to parse recipe 'infernalexp:stonecutting/basalt_bricks_vertical_slab[minecraft:stonecutting]': "infernalexp:basalt_bricks_vertical_slab" is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_lunar[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:lunar_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_lunar[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:lunar_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'epicsamurai:source_gem_samruai_boots_ritual[ars_nouveau:enchanting_apparatus]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[02:44:24] [WARN ] Failed to parse recipe epicsamurai:source_gem_samruai_boots_ritual[ars_nouveau:enchanting_apparatus]: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[02:44:24] [WARN ] Failed to parse recipe 'architects_palette:vertslabs/myonite_vertical_slab_revert[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:myonite_bricks_vertical_slab'
+[02:44:24] [WARN ] Failed to parse recipe architects_palette:vertslabs/myonite_vertical_slab_revert[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:myonite_bricks_vertical_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'dramaticdoors:short_bamboo_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:bamboo_door'
+[02:44:24] [WARN ] Failed to parse recipe dramaticdoors:short_bamboo_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'quark:bamboo_door'
+[02:44:24] [WARN ] Failed to parse recipe 'architects_palette:vertslabs/myonite_brick_vertical_slab_revert[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:myonite_bricks_brick_vertical_slab'
+[02:44:24] [WARN ] Failed to parse recipe architects_palette:vertslabs/myonite_brick_vertical_slab_revert[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:myonite_bricks_brick_vertical_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_canopy[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:canopy_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_canopy[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:canopy_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_minewood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mining_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_minewood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mining_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/centrifuge_create_crushed_tin_ore[thermal:centrifuge]': {"item":"create:crushed_tin_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'dramaticdoors:short_aurum_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:aurum_door'
+[02:44:24] [WARN ] Failed to parse recipe dramaticdoors:short_aurum_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:aurum_door'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/smelter_create_crushed_lead_ore[thermal:smelter]': {"item":"create:crushed_lead_ore"} is not a valid ingredient!
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_bluebright[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:bluebright_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_bluebright[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:bluebright_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/pulverizer_create_asurine[thermal:pulverizer]': {"item":"create:crushed_zinc_ore","chance":0.3} is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_mangrove[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mangrove_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_mangrove[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mangrove_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'epicsamurai:source_gem_samruai_chestplate_ritual[ars_nouveau:enchanting_apparatus]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[02:44:24] [WARN ] Failed to parse recipe epicsamurai:source_gem_samruai_chestplate_ritual[ars_nouveau:enchanting_apparatus]: com.google.gson.JsonSyntaxException: Expected item to be a JsonObject, was "ars...er"
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/pulverizer_create_ochrum[thermal:pulverizer]': {"item":"create:crushed_gold_ore","chance":0.2} is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'thermal:compat/create/pulverizer_create_crimsite[thermal:pulverizer]': {"item":"create:crushed_iron_ore","chance":0.4} is not a valid result!
+[02:44:24] [WARN ] Failed to parse recipe 'dramaticdoors:short_byg_white_mangrove_door[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:white_mangrove_door'
+[02:44:24] [WARN ] Failed to parse recipe dramaticdoors:short_byg_white_mangrove_door[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'byg:white_mangrove_door'
+[02:44:24] [WARN ] Failed to parse recipe 'architects_palette:vertslabs/mushy_myonite_brick_vertical_slab_revert[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:mushy_myonite_bricks_brick_vertical_slab'
+[02:44:24] [WARN ] Failed to parse recipe architects_palette:vertslabs/mushy_myonite_brick_vertical_slab_revert[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:mushy_myonite_bricks_brick_vertical_slab'
+[02:44:24] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_dusk[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:dusk_slab'
+[02:44:24] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_dusk[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:dusk_slab'
+[02:44:24] [INFO ] Found 15409 recipes and 0 failed recipes in 586.8 ms
+[02:44:26] [INFO ] Posted recipe events in 2.251 s
+[02:44:26] [WARN ] Error parsing recipe tconstruct:smeltery/casts/gold_casts/nuggets[tconstruct:casting_table]: {"type":"tconstruct:casting_table","cast":{"item":"minecraft:air"},"cast_consumed":true,"switch_slots":true,"fluid":{"tag":"forge:molten_gold","amount":90},"result":"tconstruct:nugget_cast","cooling_time":57}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[02:44:27] [WARN ] Error parsing recipe thermal:augments/fluid_filter_augment[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":[" c ","cSc"," c "],"key":{"c":{"item":"minecraft:air"},"S":{"item":"create:filter"}},"result":{"item":"thermal:fluid_filter_augment"},"conditions":[{"flag":"filter_augments","type":"thermal:flag"}]}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[02:44:27] [INFO ] Modified & removed recipes in 417.9 ms
+[02:44:27] [WARN ] Error creating recipe pneumaticcraft:kjs_bqm4e353q66ddck4firpt73do[pneumaticcraft:amadron]: {"type":"pneumaticcraft:amadron","static":true,"input":{"type":"ITEM","id":"thermal:silver_coin","amount":16},"output":{"type":"ITEM","id":"minecraft:air","amount":0},"level":0}: com.google.gson.JsonSyntaxException: unknown item minecraft:air!
+[02:44:27] [INFO ] Added recipes in 41.21 ms
+[02:44:27] [INFO ] Added 1273 recipes, removed 559 recipes, modified 321 recipes, with 3 failed recipes and 0 fall-backed recipes
+[02:44:29] [INFO ] Collecting Custom Machine upgrades from JS scripts.
